@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Golang,K8s
-- 💬 Ask me about Python,Zabbix
+- 🔭 I’m currently working on SomeThing Cool
+- 🌱 I’m currently learning Golang, K8s, Prometheus
+- 💬 Ask me about Python, Zabbix, Prometheus
 - 😄 Pronouns: ...
-- ⚡ Fun fact: FootBall,Music
+- ⚡ Fun fact: FootBall, Music
